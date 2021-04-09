@@ -1,6 +1,6 @@
-# Centauras-Bot
+# Centauras
 
-<h1 align="center"> Centauras - Bot </h1> <br>
+<h1 align="center"> Centauras </h1> <br>
 
 <p align="center">
  
