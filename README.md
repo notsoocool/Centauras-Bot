@@ -6,7 +6,7 @@
  
 </p>
 
-[![Current Version](https://i.ibb.co/3vMYD6M/Made-at-Hack-36.png)](https://github.com/The-Mavericks/Centauras-Bot)<br> 
+<a href="https://hack36.com"> <img src="https://i.ibb.co/3vMYD6M/Made-at-Hack-36.png" height=18px> </a>
 [![Current Version](https://img.shields.io/badge/version-1.1-green.svg)](https://github.com/The-Mavericks/Centauras-Bot)<br>
 
 
