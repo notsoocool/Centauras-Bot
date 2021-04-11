@@ -3,7 +3,10 @@
 <h1 align="center"> Centauras </h1> <br>
 
 <p align="center">
- 
+  <a href="https://github.com/The-Mavericks/Centauras-Bot">
+    <img alt="Centauras Bot" src="https://images.app.goo.gl/AA4cwHThARxrLAAF6" width="550">
+  </a>
+</p>
 </p>
 
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>[![Current Version](https://img.shields.io/badge/version-1.1-green.svg)](https://github.com/The-Mavericks/Centauras-Bot)<br>
