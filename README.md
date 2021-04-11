@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/The-Mavericks/Centauras-Bot">
-    <img alt="Centauras Bot" src="https://images.app.goo.gl/AA4cwHThARxrLAAF6" width="550">
+    <img alt="Centauras Bot" src="https://drive.google.com/file/d/1NyO9Py2JQGSo_1ncizhryPdyrb9Hiw9f/view?usp=sharing" width="550">
   </a>
 </p>
 </p>
