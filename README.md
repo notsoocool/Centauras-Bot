@@ -17,7 +17,7 @@
   <a href="https://youtu.be/GmUdVjqVJNo">Youtube Video</a>
   
 ## Presentation Link:
-  <a href="https://drive.google.com/file/d/10KRESXllG9wQYynJiOFDXr6GSygYSawl/view?usp=sharing"> ppt link here </a>
+  <a href="https://drive.google.com/file/d/1RlJFHIWD_XAqYaEz2VY35-n_kUELCF7M/view?usp=sharing"> ppt link here </a>
 
 ## Table of Contents
 
