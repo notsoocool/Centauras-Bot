@@ -1,0 +1,4 @@
+the breadth first search graph traversal algorithm is another one of the fundamental search algorithms used its graph runs in a time complexity of big over n plus m the breadthfirst search algorithm is particularly useful for one thing finding the shortest path on an unweighted graph a breadth first search stress and a
+node in a graph and expose its neighbouring nodes first before moving on to next items it different from a depth first search in the world and expose graph visit neighbours then you would visit on your neighbours than ever before moving on to the next nodes then we
+would visit of their neighbours in a layered manner it does this by meeting at you a which made it should be the next this is most easily seen with an example let's begin your search and
+once more adds to the Q on the left 
