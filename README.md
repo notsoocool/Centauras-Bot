@@ -20,7 +20,6 @@
 
 - [Technology Stack](#technology_stack)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Contributors](#contributors)
 
 ## Technology Stack:
@@ -35,8 +34,14 @@
 
 ## Features
 
-
-## Screenshots
+* Allowing students to focus in class rather than taking notes by providing generated
+  smart notes based on the lecture which includes the lecture summary as well as
+  pictures of the slides which contain information.
+* Notifying when your name is called in class so you don’t miss out on anything
+  important.
+* Alerting if abusive language was used during the meeting.
+* Aiding to make searching up information from the summary easier using speech to
+  search.
 
 
 ## Contributors:
